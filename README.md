@@ -1,5 +1,5 @@
 # University of Waterloo LaTex thesis template
-UW thesis template with my updates to reference front matter in the toc and include a List of Abbreviations
+UW thesis template from overleaf, updated to reference front matter in the toc and include a List of Abbreviations
 
 TOC ENTRIES
 -----------
