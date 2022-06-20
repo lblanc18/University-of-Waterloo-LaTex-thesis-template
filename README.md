@@ -26,3 +26,5 @@ Add acronyms into the LoA with the following command:
   
 Call acronyms throught document with:
   \ac{short name}
+  
+This template is currently organized to add acronyms directly into the front matter file; however this code can easily be re-written to separate the List of Abbreviations in its own file for clarity and simplicity.
