@@ -1,4 +1,4 @@
-# University-of-Waterloo-Thesis-Template_toc-with-front-matter
+# University of Waterloo LaTex thesis template
 UW thesis template with my updates to reference front matter in the toc and include a List of Abbreviations
 
 TOC ENTRIES
